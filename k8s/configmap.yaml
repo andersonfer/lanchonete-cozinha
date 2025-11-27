@@ -22,7 +22,7 @@ data:
   RABBITMQ_USERNAME: "admin"
 
   # Configurações de serviços
-  PEDIDOS_SERVICE_URL: "http://pedidos-service:8080"
+  PEDIDOS_SERVICE_URL: "http://pedidos-service:80"
 
   # Configurações de Actuator
   MANAGEMENT_ENDPOINTS_WEB_EXPOSURE_INCLUDE: "health,info,metrics"
